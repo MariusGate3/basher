@@ -1,0 +1,14 @@
+C:\Users\mariu\SideProjects\basher\obj\Debug\net8.0\basher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\SideProjects\basher\obj\Debug\net8.0\basher.AssemblyInfoInputs.cache
+C:\Users\mariu\SideProjects\basher\obj\Debug\net8.0\basher.AssemblyInfo.cs
+C:\Users\mariu\SideProjects\basher\obj\Debug\net8.0\basher.csproj.CoreCompileInputs.cache
+C:\Users\mariu\SideProjects\basher\bin\Debug\net8.0\basher.exe
+C:\Users\mariu\SideProjects\basher\bin\Debug\net8.0\basher.deps.json
+C:\Users\mariu\SideProjects\basher\bin\Debug\net8.0\basher.runtimeconfig.json
+C:\Users\mariu\SideProjects\basher\bin\Debug\net8.0\basher.dll
+C:\Users\mariu\SideProjects\basher\bin\Debug\net8.0\basher.pdb
+C:\Users\mariu\SideProjects\basher\obj\Debug\net8.0\basher.dll
+C:\Users\mariu\SideProjects\basher\obj\Debug\net8.0\refint\basher.dll
+C:\Users\mariu\SideProjects\basher\obj\Debug\net8.0\basher.pdb
+C:\Users\mariu\SideProjects\basher\obj\Debug\net8.0\basher.genruntimeconfig.cache
+C:\Users\mariu\SideProjects\basher\obj\Debug\net8.0\ref\basher.dll

@@ -1,0 +1,7 @@
+calc.exe,ARGS,2+2,Result: 4
+calc.exe,ARGS,5-3,Result: 2
+calc.exe,STDIN,10+5-3,Result: 12
+calc.exe,FILE,2+2,Result: 4
+calc.exe,FILE,123+456,Result: 579
+calc.exe,ARGS,10,Result: 10
+calc.exe,ARGS,2+2x,Result: Invalid input
