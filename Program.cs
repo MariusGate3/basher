@@ -15,11 +15,11 @@ string output = "test.sh";
 string[] rows = File.ReadAllLines(f);
 StringBuilder testContent = new StringBuilder();
 testContent.AppendLine("#!/bin/bash");
-testContent.AppendLine("ACTUAL=$(mktemp)");
-testContent.AppendLine("EXPECTED=$(mktemp)");
 
 for (int i = 0; i < rows.Length; i++) {
 
+    testContent.AppendLine("ACTUAL=$(mktemp)");
+    testContent.AppendLine("EXPECTED=$(mktemp)");
     string[] data = rows[i].Split(',');
     string inputType = data[1];
     string P = data[0];

@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mariu\\.nuget\\packages\\": {}
+    "/home/mariusgate/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mariu\\SideProjects\\basher\\basher.csproj",
+      "projectUniqueName": "/mnt/c/Users/mariu/SideProjects/basher/basher.csproj",
       "projectName": "basher",
-      "projectPath": "C:\\Users\\mariu\\SideProjects\\basher\\basher.csproj",
-      "packagesPath": "C:\\Users\\mariu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mariu\\SideProjects\\basher\\obj\\",
+      "projectPath": "/mnt/c/Users/mariu/SideProjects/basher/basher.csproj",
+      "packagesPath": "/home/mariusgate/.nuget/packages/",
+      "outputPath": "/mnt/c/Users/mariu/SideProjects/basher/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mariu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/mariusgate/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
